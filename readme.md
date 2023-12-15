@@ -1,8 +1,18 @@
 ## Sistem Pendukung Keputusan Pemilihan Wisma menggunakan Metode Analitical Hyrarcy Process (AHP)
 
-Aplikasi ini saya beri nama `SIPILMA`.
+Aplikasi ini kami beri nama `SPWM`.
 
-Aplikasi ini menggunakan Framework `Laravel version 5.7.x`
+Aplikasi Ini dibuat untuk memenuhi tugas Sistem Pendukung Keputusan(SPK)
+
+Kelompok 1
+
+Agil Pamungkas 2021804050
+
+Yunni Silvrihartini 2021804045
+
+Nur Aini 2021804134
+
+Aplikasi ini menggunakan Framework `Laravel version 7.0.x & PHP V.7.4.33`
 
 Dokumentasi resmi Laravel dapat kamu temukan di [Laravel website](http://laravel.com/docs).
 
@@ -32,4 +42,4 @@ Dokumentasi resmi Laravel dapat kamu temukan di [Laravel website](http://laravel
 
 #
 ### Seputar pertanyaan ? Kontak saya di:
-- [Facebook](https://facebook.com/caesaralilamondo)
+- [Instagram](https://instagram.com/npcaja.id)
