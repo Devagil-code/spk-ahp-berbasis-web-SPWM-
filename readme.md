@@ -1,6 +1,8 @@
 ## Sistem Pendukung Keputusan Pemilihan Wisma menggunakan Metode Analitical Hyrarcy Process (AHP)
 
-Aplikasi ini saya beri nama `SPWM`.
+Aplikasi ini kami beri nama `SPWM`.
+
+Aplikasi Ini dibuat untuk memenuhi tugas Sistem Pendukung Keputusan(SPK)
 
 Aplikasi ini menggunakan Framework `Laravel version 7.0.x & PHP V.7.4.33`
 
