@@ -1,0 +1,24 @@
+
+                <div class="title">
+                    {{ config('app.name') }}
+                </div>
+                <div class="links">
+                    <h2 class="mt-0 mb-4 d-none d-sm-block">
+                        ICIKIWIR
+                    </h2>
+                    @if (Route::has('login'))
+                        @auth
+                            <a href="{{ url('/home') }}" class="btn btn-lg btn-info">
+                                <span class="mx-5"><i class="fas fa-home mr-1"></i> Home</span>
+                            </a>
+                        @else
+                            <a href="{{ route('login') }}" class="btn btn-lg btn-info">
+                                <span class="mx-5"><i class="fas fa-sign-in-alt mr-1"></i> Login</span>
+                            </a>
+                        @endauth
+                    @endif
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
