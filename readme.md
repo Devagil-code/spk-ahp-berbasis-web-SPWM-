@@ -5,10 +5,11 @@ Aplikasi ini kami beri nama `SPWM`.
 Aplikasi Ini dibuat untuk memenuhi tugas Sistem Pendukung Keputusan(SPK)
 
 Kelompok 1
+Agil Pamungkas 2021804050
 
-Agil Pamungkas 2021804050.
-Yunni Silvrihartini 2021804045.
-Nur Aini 2021804134.
+Yunni Silvrihartini 2021804045
+
+Nur Aini 2021804134
 
 Aplikasi ini menggunakan Framework `Laravel version 7.0.x & PHP V.7.4.33`
 
