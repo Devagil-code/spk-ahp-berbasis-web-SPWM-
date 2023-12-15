@@ -1,6 +1,6 @@
 ## Sistem Pendukung Keputusan Pemilihan Wisma menggunakan Metode Analitical Hyrarcy Process (AHP)
 
-Aplikasi ini saya beri nama `SIPILMA`.
+Aplikasi ini saya beri nama `PWSM`.
 
 Aplikasi ini menggunakan Framework `Laravel version 5.7.x`
 
