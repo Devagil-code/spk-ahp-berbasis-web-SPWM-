@@ -1,8 +1,8 @@
 ## Sistem Pendukung Keputusan Pemilihan Wisma menggunakan Metode Analitical Hyrarcy Process (AHP)
 
-Aplikasi ini saya beri nama `PWSM`.
+Aplikasi ini saya beri nama `SPWM`.
 
-Aplikasi ini menggunakan Framework `Laravel version 5.7.x`
+Aplikasi ini menggunakan Framework `Laravel version 7.0.x & PHP V.7.4.33`
 
 Dokumentasi resmi Laravel dapat kamu temukan di [Laravel website](http://laravel.com/docs).
 
